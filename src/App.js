@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
+
+  
   return (
     <div className="App">
       <header className="App-header">
@@ -15,7 +18,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          its changed very quickly with docker compose . im adarsh 
+          
         </a>
       </header>
     </div>
@@ -23,3 +27,6 @@ function App() {
 }
 
 export default App;
+
+
+
